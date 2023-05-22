@@ -8,4 +8,4 @@ node_modules/
 .DS_Store
 
 #ignore _build files
-#_build
+_build
