@@ -1,0 +1,11 @@
+# ignore all .log files
+*.log
+
+# ignore the node_modules directory
+node_modules/
+
+# ignore .DS_Store files
+.DS_Store
+
+#ignore _build files
+_build
